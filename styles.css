@@ -3,8 +3,13 @@ body {
   background-color: pink;
 }
 
-div {
+.image-contain {
+  font-size: 20px;
+  margin: 10px;
+}
 
+.spacer {
+  height: 50px;
 }
 
 a {
